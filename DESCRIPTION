@@ -1,0 +1,10 @@
+Package: IGRF13
+Version: 0.1-0
+Date: 2020-05-11
+Title: International Geomagnetic Reference Field
+Author: Ilkka Virtanen <ilkka.i.virtanen@oulu.fi>
+Maintainer: Ilkka Virtanen <ilkka.i.virtanen@oulu.fi>
+Description: R-interface to IGRF-13 FORTRAN routines
+License: FreeBSD
+Depends:
+Copyright: University of Oulu, Finland
